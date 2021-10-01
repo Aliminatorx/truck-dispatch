@@ -1,0 +1,31 @@
+#truckic{
+  font-size: large;
+  transform: rotateY(180deg);
+}
+.home:hover{
+  background-color: rgb(48, 44, 44);
+  border-radius: 25px;
+}
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown1 .itm:hover{
+  color: white;
+  background-color: black;
+}
+.dropdown1:hover{
+background-color: rgb(48, 44, 44);
+border-radius: 25px;
+}
+.dropdown2 .cont:hover{
+  color: white;
+  background-color: black;
+}
+.dropdown2:hover{
+  background-color: rgb(48, 44, 44);
+  border-radius: 25px;
+  }
+.navbarcust{
+  height: 70px;
+}
+
