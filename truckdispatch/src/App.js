@@ -42,8 +42,9 @@ function App() {
     </Navbar.Collapse>
   </Container>
 </Navbar>
-<img src="./images/truck.jpg" class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt=""/>
-       <h1>Truck Dispatch System</h1>
+
+  <img src="./images/truck.jpg" class="img-fluid ${3|rounded-top,rounded-right,rounded-bottom,rounded-left,rounded-circle,|}" alt=""/>
+  <button class="btn btn-warning">Button</button>
     </div>
   );
 }

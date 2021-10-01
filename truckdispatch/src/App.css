@@ -28,4 +28,10 @@ border-radius: 25px;
 .navbarcust{
   height: 70px;
 }
-
+#btncall{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  border: 3px solid green;
+}
